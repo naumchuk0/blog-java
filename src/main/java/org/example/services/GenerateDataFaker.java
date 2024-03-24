@@ -17,7 +17,6 @@ public class GenerateDataFaker {
     private final PostRepository postRepository;
     private final PostTagRepository postTagRepository;
     private final TagRepository tagRepository;
-
     private final RoleRepository roleRepository;
     private final UserRepository userRepository;
     private final UserRoleRepository userRoleRepository;
